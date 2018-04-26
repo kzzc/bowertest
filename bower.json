@@ -1,0 +1,17 @@
+{
+  "name": "bowerpackage",
+  "homepage": "https://github.com/kzzc/bowertest",
+  "authors": [
+    "dyrs.zc <dyrs.zc@outlook.com>"
+  ],
+  "description": "",
+  "main": "",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
